@@ -469,6 +469,17 @@ p {
 
 /***************************************************************************************/
 @media screen and (max-width: 768px) {
+  /********************artist****************/
+  .name-artist {
+    margin-top: 0;
+  }
+  .artist-img {
+    display: none;
+    visibility: hidden;
+  }
+  .btns {
+    margin-bottom: 10px;
+  }
   .main {
     background-color: black;
     margin-bottom: 5rem;
